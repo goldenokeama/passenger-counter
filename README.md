@@ -11,6 +11,10 @@ This is a simple web-based counter application built with **HTML**, **CSS**, and
 - **Save:** A button to log the current count and reset the tally for the next group of passengers.
 - **Previous Entries:** Displays a record of past saved counts for quick reference.
 
+## How to view
+
+To view the live project, [click here](https://business-card-golden.netlify.app/).
+
 ## How to Use
 
 1.  Open the `index.html` file in your web browser.
