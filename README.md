@@ -13,7 +13,7 @@ This is a simple web-based counter application built with **HTML**, **CSS**, and
 
 ## How to view
 
-To view the live project, [click here](https://business-card-golden.netlify.app/).
+To view the live project, [click here](https://passenger-counter-golden.netlify.app/).
 
 ## How to Use
 
