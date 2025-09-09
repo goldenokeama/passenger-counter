@@ -19,6 +19,10 @@ This is a simple web-based counter application built with **HTML**, **CSS**, and
 4.  Once a group of passengers has boarded, click the "SAVE" button to record the entry. The count will then reset to 0.
 5.  All saved entries will appear under the "Previous entries" heading.
 
+## How to view
+
+To view the live project, [click here](https://passenger-counter-golden.netlify.app/).
+
 ## Technologies Used
 
 - **HTML:** For the basic structure of the web page.
